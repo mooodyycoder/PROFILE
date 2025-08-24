@@ -1,0 +1,87 @@
+        /* Reset */
+        * {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        body {
+            background-color: #545050;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+            color: rgb(220, 209, 209);
+        }
+        .profile {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .profile-pic {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            /* object-fit: cover; */
+            border: 4px solid white;
+        }
+
+        .profile h1 {
+            font-size: 2rem;
+            margin: 10px 0;
+        }
+
+        .profile p {
+            font-size: 1rem;
+        }
+
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+/* jaaduuu */
+
+
+
+        /* body:hover{
+            background-image: url("sirrrr.jpg");
+            background-size: cover;
+            background-position: center;
+            justify-content: left;  
+
+        } */
